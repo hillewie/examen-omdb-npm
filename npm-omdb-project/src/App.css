@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+body{
+  background: #282c34;
+  background-color: #22254b;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.movie-container {
+  display: flex;
+  flex-wrap: wrap;
+  color: white;
+}
+.movie {
+  width: 300px;
+}
+
+poster{
+    max-width: 100%;
+}
